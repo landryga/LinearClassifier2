@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/jmathio.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/jmathplot.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/commons-math3-3.6.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/commons-math3-3.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/commons-math3-3.6.1-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/commons-math3-3.6.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/commons-math3-3.6.1-tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
